@@ -29,6 +29,17 @@ nav li{
 	font-size: 20px;
 }
 
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    text-decoration: none;
+}    
+
 .Coin_apex{
 	padding-right: 200px;
 	padding-left: 50px;
@@ -60,6 +71,41 @@ nav li{
 	white-space: 20px;
 	font-size: 20px;
 	color: white;
+}
+
+.Movable{
+	padding-right: 200px;
+	padding-left: 50px;
+	background-color: #bb85e5;
+	padding-top: 100px;
+	margin:40px;
+	text-align: left;
+	padding-bottom: 100px;
+	white-space: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+.Snatch{
+	padding-right: 200px;
+	padding-left: 50px;
+	background-color: #ba221d;
+	padding-top: 60px;
+	margin:40px;
+	text-align: left;
+	padding-bottom: 120px;
+	white-space: 20px;
+	font-size: 20px;
+	color: white;
+}
+.textwrap2{
+	float:left;
+	float: top;
+	width: 25%;
+	margin-left:0px;
+	margin-top: 0px;
+	margin-right: 20px;
+
 }
 /*.item{
 	border: 10px white;
