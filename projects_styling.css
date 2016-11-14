@@ -29,6 +29,38 @@ nav li{
 	font-size: 20px;
 }
 
+.Coin_apex{
+	padding-right: 200px;
+	padding-left: 50px;
+	background-color: yellow;
+	padding-top: 100px;
+	margin:40px;
+	text-align: left;
+	padding-bottom: 200px;
+	white-space: 20px;
+	font-size: 20px;
+}
+
+.textwrap1{
+	float:left;
+	width: 25%;
+	margin-left:0px;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+
+.Coin_co{
+	padding-right: 200px;
+	padding-left: 50px;
+	background-color: blue;
+	padding-top: 100px;
+	margin:40px;
+	text-align: left;
+	padding-bottom: 100px;
+	white-space: 20px;
+	font-size: 20px;
+	color: white;
+}
 /*.item{
 	border: 10px white;
 }
