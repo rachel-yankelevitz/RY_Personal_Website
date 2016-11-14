@@ -1,14 +1,23 @@
 body{
 	font:Helvetica, Arial, sans-serif;
-	text-align: center;
-	background-color: white;
+	background-color: black;
 	/*padding-left: 250px;
 	padding-right: 250px;*/
 }
 
+#header{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 70px;
+	color:black;
+}
+
 .sup{
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 100px;
+	background-color: green;
+	text-align: center;
+	margin:40px;
 }
 
 nav li{
@@ -16,32 +25,54 @@ nav li{
 	font-weight: bold;
 	padding: 10px;
 	text-align:center;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 70px;
+	margin-right: 70px;
 	font-family: helvetica;
+	font-size: 20px;
 }
 
 .Intro{
-		text-align: center;
+	text-align: center;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: purple;
+	font-size: 20px;
+	color:white;
+	margin: 40px;
 }
 
 .Education{
-		text-align: center;
-		padding-top: 100px;
-		padding-bottom: 100px;
-		margin:40px;
-		background-image: url(snake.jpg);
-		font-size: 20px;
-
+	padding-top: 100px;
+	padding-bottom: 50px;
+	padding-left: 200px;
+	padding-right: 200px;
+	margin:40px;
+	font-size: 20px;
+	background-color:grey;
+	color: white;	
 }
-.bullet_points{
-	background-image: url(snake.jpg);
+
+.paragraph_span{
+	text-align: center;
+}
+
+.p2_span{
 	text-align: left;
-	margin-left: 100px;
+	padding-left: 200px;
 	font-weight: bold
 }
 
 #major{
 	font-style:italic;
 	font-weight: normal;
+}
+
+.design{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	outline-style: solid;
+	outline-color: purple;
 }
