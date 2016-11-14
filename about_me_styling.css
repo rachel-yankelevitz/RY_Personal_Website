@@ -1,0 +1,17 @@
+.body{
+	font: HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif";
+	text-align: center;
+	margin-left: 200px;
+	margin right:200px;
+
+}
+
+nav li{
+	display: inline-block;
+	font-weight: bold;
+	padding: 10px;
+	text-align:center;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: helvetica;
+}
